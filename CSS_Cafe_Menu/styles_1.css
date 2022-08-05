@@ -1,0 +1,79 @@
+body{
+    background-image: url(pizza-ga3b33376a_1920.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu{
+    /* background-color: burlywood; */
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+h1,h2,p{
+    text-align: center;
+    color: green;
+    border-width: 10px;
+}
+p{
+    color: black;
+}
+.salad{
+    text-align: left;
+    width: 75%;
+    color: red;    
+}
+.price{
+    text-align: right;
+    width: 25%;
+    color: red;
+}
+article{
+    font-size: large;
+}
+.item p {
+display: inline-block;
+}
+h2{
+    color: red;
+    border: 1px;
+}
+.soup{
+    text-align: left;
+    width: 75%;
+    color: red;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  .bottom-line {
+    margin-top: 25px;
+  }
+
+/* FOOTER */
+  
+footer {
+    font-size: 16px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  a:active {
+    color: brown;
+  }
